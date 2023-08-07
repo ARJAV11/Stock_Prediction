@@ -15,7 +15,8 @@ The Stock Price Prediction project is a machine learning-based financial forecas
  available historical data. The model can provide insights into potential market trends and assist in making informed financial decisions.
 
 # 100,200 MOVING AVERAGE
-![download](https://github.com/ARJAV11/Stock_Prediction/assets/110544934/9ec24fd3-db03-4993-b823-ed5002b0aa71)
+![download](https://github.com/ARJAV11/Stock_Prediction/assets/110544934/beb61f51-6d19-4740-b0ab-05f47b93983d)
+
 
 
 
